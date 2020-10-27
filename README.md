@@ -2,11 +2,11 @@
 
 Brief description of my profile.
 
--Presentation
--Curriculum vitae
--University Diploma of Engineering
--Certificates
--Other Diplomas
+01) Presentation
+02) Curriculum vitae
+03) University Diploma of Engineering
+04) Certificates
+05) Other Diplomas
 
 For more information, contact me: 
 
